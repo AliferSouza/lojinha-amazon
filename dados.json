@@ -1,0 +1,7 @@
+{	
+    "pets":[
+        { "src":"./publico/images/shopping.png","Titulo":"Notebook" },
+        { "src":"./publico/images/shopping.png", "Titulo":"Notebook" },
+        { "src":"./publico/images/shopping.png", "Titulo":"Notebook" }
+    ]
+}
