@@ -1,6 +1,5 @@
 
 function BlogTimeline() {
-
     fetch("../../dados.json")
         .then(response => response.json())
         .then(data => {show(data.Blog); console.log(data.Blog)
@@ -25,7 +24,5 @@ function show(posts) {
     }
     document.querySelector('.blogpost').innerHTML = output
 }
-
-
 
 export { BlogTimeline };
