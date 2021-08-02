@@ -2,7 +2,7 @@
 function BlogTimeline() {
     fetch("../../dados.json")
         .then(response => response.json())
-        .then(data => {show(data.Blog); console.log(data.Blog)
+        .then(data => {show(data.Blog);
         }).catch(e => { console.log("ERRO" + e)}) 
 }
 

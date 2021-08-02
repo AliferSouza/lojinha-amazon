@@ -39,6 +39,7 @@ const Show = {
         document.querySelector('.destaque-cards').innerHTML = output
     },
    
+   
     }  
 
 
