@@ -1,0 +1,44 @@
+.captura{     
+    background: black;
+    width:98%; 
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+form{
+    margin-top: 20px;
+    display: grid;
+    justify-content:center;
+    align-items:center;   
+    padding: 1rem;
+    background: rgb(3, 3, 3);    
+
+}
+
+.cap-text{    
+    color: #fff;
+    font-size:20;
+    
+}
+
+input{    
+    margin-top: 20px;
+    padding: 4px;
+    border-radius: 10px;   
+   
+}
+
+.btncap{  
+    margin-top: 10px;
+    padding: 0.4rem;
+    border-radius: 10px;
+}
+
+
+@media(min-width:768px){
+    .captura {
+        margin-top:30rem;
+    } 
+ 
+}
+

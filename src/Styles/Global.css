@@ -1,0 +1,52 @@
+
+
+body {
+    background: #FCFCFC;   
+}
+
+
+.night-mode{	
+    filter: invert(1) hue-rotate(180deg)
+}
+.night-mode img{
+    filter: invert(1) hue-rotate(180deg)
+}
+  
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.header {   
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: space-between;
+    gap: 2rem;
+    font-family: sans-serif;
+    font-style: italic;   
+    font-size: 0.8rem;    
+}
+
+  .footer {        
+      padding-top: 4rem;
+      text-align: center; 
+      font-style: italic;        
+  }
+ 
+  @media (max-width: 600px) { 
+
+    .header {              
+        font-size: 0.6rem; 
+    }
+    .navigation{  
+        top:0.5%;               
+    }      
+   
+}
+
+
+

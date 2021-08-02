@@ -1,0 +1,38 @@
+.conteiner-cards {  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+    gap: 1rem;
+
+  }
+
+
+.card {  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px; 
+  padding: 1rem;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 0.6rem;
+ 
+}
+.cardmode{
+  box-shadow: 0 4px 8px 0 rgba(155, 154, 154, 0.2);
+}
+
+.card .btn {  
+  padding: 0.4rem;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 0.6rem;
+  text-decoration: none;
+}
+
+.card .btn:hover {
+  opacity: 0.7;
+}
+ 

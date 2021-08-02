@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.container-blog{    
+    margin-top: 4rem;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: center;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center; 
+    width: 100%;
+}
+
+
+.post {
+
+    padding: 2rem;    
+    position: relative;  
+    box-shadow: 0 4px 8px 0 rgba(41, 41, 41, 0.2);
+    display: flex;
+    width: 200px;
+    height: 100px;      
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 0.6rem;    
+    gap: 0.4rem;  
+}
+
+.post .post-title {
+  margin: 0;
+}
+
+.post .post-body {
+  margin: 20px 0 0;
+  line-height: 1.5;
+}
+
+.post .post-info {
+  margin-left: 20px;
+}
+
+.post .number {
+  position: absolute;
+  top: -15px;
+  left: -15px;
+  font-size: 15px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #4CD964;
+  color: #0E1220;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 10px;
+}
+
+
+.circle {
+  background-color: #4CD964;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin: 5px;
+  animation: bounce 0.5s ease-in infinite;
+}
+
+.circle:nth-of-type(2) {
+  animation-delay: 0.1s;
+}
+
+.circle:nth-of-type(3) {
+  animation-delay: 0.2s;
+}

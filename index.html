@@ -1,27 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Loja do Alifer</title>
-    <link rel="stylesheet" type="text/css" href="./src/styles/global.css">
-
+    <link rel="stylesheet" type="text/css" href="./src/Styles/Global.css">
+    <link rel="stylesheet" type="text/css" href="./src/Styles/Card.css">
+    <link rel="stylesheet" type="text/css" href="./src/Styles/CarrosselCard.css">
+    <link rel="stylesheet" type="text/css" href="./src/Styles/Menu.css">
+    <link rel="stylesheet" type="text/css" href="./src/Styles/Des-Card.css">
+    <link rel="stylesheet" type="text/css" href="./src/Styles/Captura.css">
 </head>
 
-<body>
+<body id="acima">
+    <header class="header "></header>
+    <div class="navigation"></div>
 
-    <header class="header">
-        <img class="image" src="./publico/images/icone-sacola.png" width="30" height="30">
-        <h1>Loja do Alifer</h1>
-    </header>
- 
+    <div class="rectangle-cards"></div>
+    <div class="destaque-cards"></div>
+    <br/>
     <div class="conteiner-cards"></div>
+    <div class="captura"></div>
 
     <footer class="footer">Loja do Alifer</footer>
+   
+    <script type="module">
+        import { App } from './src/App.js'
+        App.paginaInicial()
+    </script>  
 
-    <script src="./src/js/main.js"></script>
 </body>
 
 </html>

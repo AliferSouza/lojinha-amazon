@@ -1,0 +1,49 @@
+{      
+        "interface":[
+                {"logo":"./publico/images/icone-shopping.png"}                
+        ],
+        "Cards":[
+                { "src":"./publico/images/shopping.png","Titulo":"Notebook1","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook2","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook3","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook4","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook5","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook6","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook7","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook8","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook9","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" }
+        ],
+        "cCards":[
+                { "src":"./publico/images/shopping.png","Titulo":"Notebook1","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook2","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook3","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook4","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook4","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" }
+        ],
+        "desCards":[
+                { "src":"./publico/images/shopping.png","Titulo":"Notebook1","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook2","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook3","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook3","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" },
+                { "src":"./publico/images/shopping.png", "Titulo":"Notebook3","Link":"https://www.amazon.com.br/Apple-MacBook-Pro-Chip-256GB/dp/B08N5N6RSS/ref=asc_df_B08N5N6RSS/?tag=googleshopp00-20&linkCode=df0&hvadid=379720653016&hvpos=&hvnetw=g&hvrand=8409967113944531634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031483&hvtargid=pla-1026217247271&psc=1" }
+        ],
+        "Blog":[
+                {"userId":"1",
+                "id":"1",
+                "title":"Primeira postagem",
+                "body":"Essa e a nossa primeira postagem, obrigado por esta sempre ao nosso lado"
+                },
+                {"userId":"1",
+                "id":"2",
+                "title":"Segunda postagem",
+                "body":"Essa e a nossa segunda postagem. Obrigado!"
+                 },
+                 {"userId":"1",
+                  "id":"3",
+                  "title":"Segunda postagem",
+                  "body":"Essa e a nossa segunda postagem. Obrigado!"
+                }
+               
+        ]
+        
+}
